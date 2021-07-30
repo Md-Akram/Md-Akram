@@ -15,7 +15,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akram)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Akram)](https://github.com/Md-Akram/)
 
 
 <!---
