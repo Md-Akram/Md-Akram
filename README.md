@@ -2,7 +2,7 @@
 # Hi, I'm Akram! 👋
 
 ## 🚀 About Me
-I'm a student. Recently found a little bit of interest in Web Development. Currently my focus is on the Front-end. My goal is to go full-stack in near future.
+I'm a student. Have a fare bit of interest in Web Development. Currently my focus is on the Front-end. My goal is to go full-stack in near future.
 
 ## 🛠 Skills
 HTML, CSS, Javascript, React...
