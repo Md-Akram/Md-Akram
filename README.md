@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" alt="Alt Text" style="width:100%;"/>
+<img src="./github-header-image2.png" alt="Alt Text" style="width:100%;"/>
 
 
 ## About Me
