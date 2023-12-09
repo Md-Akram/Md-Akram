@@ -3,7 +3,7 @@
 
 ## About Me
 
-Full-stack developer specializing in MERN technologies, transforming ideas into robust, scalable applications. Eager to contribute expertise in creating seamless user experiences. Actively seeking new opportunities to bring innovation to the tech world.
+Full-stack developer specializing in MERN technologies, transforming ideas into applications. Eager to contribute expertise in creating seamless user experiences. Actively seeking new opportunities to bring innovation to the tech world.
 
 ## Tech Stack
 
