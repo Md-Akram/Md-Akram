@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+<img src="./github-header-image.png" alt="Alt Text" style="width:100%;"/>
+
 
 ## About Me
 
